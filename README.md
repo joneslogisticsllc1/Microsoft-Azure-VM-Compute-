@@ -3,7 +3,7 @@
 </p>
 
 <h1>Azure - Virtual Machine and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the IP Config, Active Directory and Virtual Machine of the help desk ticketing system.<br />
 
 
 <h2>Environments and Technologies Used</h2>
