@@ -48,3 +48,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
 <img src="https://imgur.com/69BMaW2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+An Azure virtual machine gives you the flexibility of virtualization without having to buy and maintain the physical hardware that runs it. However, you still need to maintain the virtual machine by performing tasks, such as configuring, patching, and installing the software that runs on it.
+
+</p>
