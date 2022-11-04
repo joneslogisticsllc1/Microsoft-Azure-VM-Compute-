@@ -1,1 +1,1 @@
-# Microsoft-Azure-VM-Compute-
+# Microsoft Azure (VM/Compute)
